@@ -1,1 +1,1 @@
-diesel migration run --database-url=mysql://www-data:www-data@em-chef-appserver.em.lan/rly
+diesel migration run --database-url=mysql://www-data:www-data@localhost/rly
