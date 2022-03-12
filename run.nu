@@ -1,0 +1,1 @@
+cargo run -p rly-server -- --database=mysql://www-data:www-data@em-chef-appserver.em.lan/rly
